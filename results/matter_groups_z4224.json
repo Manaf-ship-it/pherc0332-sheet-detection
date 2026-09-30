@@ -1,0 +1,29 @@
+{
+ "z": 4224,
+ "matter_px": 1653787,
+ "groups_8conn": 698,
+ "groups_4conn": 4232,
+ "largest_group_share": 0.9413733449349886,
+ "groups_for_50pct_matter": 1,
+ "groups_for_90pct_matter": 1,
+ "size_px_percentiles_10_50_90_99": [
+  15.0,
+  47.5,
+  299.60000000000014,
+  1751.4499999999941
+ ],
+ "groups_ge_1000px": 15,
+ "groups_ge_10000px": 1,
+ "top10_sizes_px": [
+  1556831,
+  4963,
+  4267,
+  3714,
+  2306,
+  2272,
+  1960,
+  1745,
+  1736,
+  1361
+ ]
+}

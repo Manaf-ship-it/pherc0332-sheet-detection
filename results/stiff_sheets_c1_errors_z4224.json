@@ -1,0 +1,35 @@
+{
+ "ref4k": {
+  "draws": 11,
+  "errors_mean": 42.73,
+  "errors_sd": 5.22,
+  "S1_mean": 0.748
+ },
+ "kt10": {
+  "draws": 11,
+  "errors_mean": 44.27,
+  "errors_sd": 11.67,
+  "S1_mean": 0.788
+ },
+ "kt30": {
+  "draws": 11,
+  "errors_mean": 29.55,
+  "errors_sd": 3.67,
+  "S1_mean": 0.797
+ },
+ "kt100": {
+  "draws": 11,
+  "errors_mean": 24.82,
+  "errors_sd": 3.22,
+  "S1_mean": 0.801
+ },
+ "original_null24": {
+  "draws": 11,
+  "errors_mean": 13.909090909090908,
+  "errors_sd": 1.7580981459830651,
+  "S1_mean": 0.8338441613347708,
+  "diff_vs_ref_mean": 0.0,
+  "draws_better_than_ref": 0,
+  "draws_worse": 0
+ }
+}

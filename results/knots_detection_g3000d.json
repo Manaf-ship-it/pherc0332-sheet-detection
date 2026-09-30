@@ -1,0 +1,13 @@
+{
+ "state": "g3000d",
+ "hot_bonds": 8107,
+ "knotsA": 2626,
+ "knotA_nodes": 42148,
+ "knotsB": 289,
+ "knotB_nodes": 9216,
+ "ctrl_nodes": 36482,
+ "B_centres_within_10px_of_A": 0.5778546712802768,
+ "A_centres_within_10px_of_B": 0.07463823305407463,
+ "strain_normal_p99": 0.06353118398572959,
+ "curv_threshold_dk": 0.11281391208862412
+}

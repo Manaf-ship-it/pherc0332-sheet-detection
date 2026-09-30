@@ -1,0 +1,12 @@
+{
+ "z": 4224,
+ "gap_max_px": 4,
+ "guard_parallel_deg": 30.0,
+ "weld_px": 211683,
+ "weld_sites": 100353,
+ "weld_px_share_of_matter": 0.12799895028803587,
+ "weld_px_without_guard": 214477,
+ "groups_before": 698,
+ "groups_after": 255,
+ "largest_group_share_after": 0.9776522806584935
+}
